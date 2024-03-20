@@ -1,0 +1,90 @@
+#titulo{
+    color: brown;
+    text-align: center;
+    
+}
+
+.nave{
+    background-color: rgb(158, 255, 223);
+    border: 2px solid transparent;
+    color: rgb(0, 38, 255);
+    padding: 10px;
+    text-decoration: none;
+    display: inline-block;
+}
+.nave:hover {
+    background-color: rgb(0, 38, 255);
+    color: rgb(158, 255, 223);
+}
+
+.central{
+    text-align: center;
+}
+
+#terror{
+    color: red;
+    background-color: black;
+    text-align: center;
+}
+
+#accion{
+    color: green;
+    background-color: bisque;
+    text-align: center;
+}
+
+#ciencia{
+    color: aqua;
+    background-color: darkblue;
+    text-align: center;
+}
+
+.marco{
+   width: 100%;
+   height: 220px;
+   border: 1px solid black;
+}
+
+.caja1{
+    background-color: rgb(87, 87, 255);
+    margin: 20px;
+    border: 1px solid black;
+    padding: 25px;
+    width: 350px;
+    height: 125px;
+    text-align: center;
+    float: left; 
+}
+.caja1:hover {
+	background-color: #C1A93E;
+}
+
+.caja2{
+    background-color: rgb(74, 255, 143);
+    width: 350px;
+    height: 125px;
+    margin: 20px;
+    padding: 25px;
+    border: 1px solid black;
+    text-align: center;
+    float: left;
+}
+
+.caja2:hover{  
+	background-color: #D7287B;
+}
+
+.caja3{
+    background-color: rgb(103, 224, 184);
+    width: 350px;
+    height: 125px;
+    margin: 20px;
+    padding: 25px;
+    border: 1px solid black;
+    text-align: center;
+    float: left;
+}
+
+.caja3:hover{
+    background-color:#D32C35;
+}
